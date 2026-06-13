@@ -5,7 +5,7 @@ export function ChatWorkspace() {
     <section className="chat-workspace" aria-label="Aerius chat workspace">
       <div className="empty-state">
         <h1>How can Aerius help?</h1>
-        <p>Frontend Preview · No live backend connected</p>
+        <p>Private Alpha · No live backend connected</p>
       </div>
 
       <div className="prompt-chips" aria-label="Example prompts">

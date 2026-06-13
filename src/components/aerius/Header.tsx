@@ -9,7 +9,7 @@ export function Header() {
       </Link>
 
       <nav className="header-nav" aria-label="Primary navigation">
-        <button type="button">New Chat</button>
+        <Link href="/">New Chat</Link>
         <a href="https://demo.aerius.to" rel="noreferrer" target="_blank">
           Demo
         </a>
